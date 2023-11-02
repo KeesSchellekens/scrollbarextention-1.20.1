@@ -5,6 +5,9 @@
 	"mixins": [
 		"ExampleMixin"
 	],
+	"client": {
+		"HotbarClientMixin"
+	},
 	"injectors": {
 		"defaultRequire": 1
 	}
