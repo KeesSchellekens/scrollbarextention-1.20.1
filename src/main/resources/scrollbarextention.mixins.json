@@ -3,11 +3,7 @@
 	"package": "keesschellekens.scrollbarextention.mixin",
 	"compatibilityLevel": "JAVA_17",
 	"mixins": [
-		"ExampleMixin"
 	],
-	"client": {
-		"HotbarClientMixin"
-	},
 	"injectors": {
 		"defaultRequire": 1
 	}
